@@ -1,7 +1,5 @@
 # Red-Neuronal-Celsius-a-Fahrenheit
 
-Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js
-
 Se trata de un conversor en tiempo real de grados Celsius a Fahrenheit utilizando Tensorflow.js, en base aun modelo entrenado en Python con Tensorflow
 
 # Para probar proyecto en vivo
