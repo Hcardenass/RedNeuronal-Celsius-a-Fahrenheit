@@ -1,4 +1,4 @@
-# RedNeuronal-Celsius-a-Fahrenheit
+# Red-Neuronal-Celsius-a-Fahrenheit
 
 Este código fuente sirve como apoyo para el video de exportación de modelos de Tensorflow a Tensorflow.js
 
